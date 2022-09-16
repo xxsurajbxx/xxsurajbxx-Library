@@ -1,0 +1,1 @@
+package xxsurajbxx.game;public abstract class GameStateManager {    private static int state;    public static int getState() {        return state;    }    public static void setState(int stat) {        state = stat;    }}
